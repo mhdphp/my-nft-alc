@@ -1,0 +1,3 @@
+In order to get the NFT in Metamask wallet:
+1. Use the Metamask mobil version
+2. Insert the contract address and the token id. 
